@@ -13,3 +13,9 @@
 * They can click on a play button and play the video 
 * Also, show them a title and a description of the video at the bottom.
 
+## Technologies Used
+* React.js
+* semantic-ui
+* axios
+
+![diagram](video.gif "diagram")
